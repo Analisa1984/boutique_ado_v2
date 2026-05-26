@@ -1,4 +1,8 @@
-.pyc
+*.pyc
 __pycache__/
 .venv/
 db.sqlite3
+home/__pycache__/*
+products/__pycache__/*
+.pyc
+__pycache__/
